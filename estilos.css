@@ -9,9 +9,28 @@ h1{
 .familiatexto{
     font-family: "papyrus" ;
     font-size: 15px;
-    color: blue;
+    color:black;
     text-align: justify;
 }
-body{
+.paginacool{
+    background-color:green ;
+}
+.titulomejorado{
+    background-color:  red;
+}
+.titulo98{
+    background-color: yellow;
+
+}
+
+.imagenfondo{
+    background-image:url(img/medellin.jpg) ;
+    height: 600px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color: blueviolet;
+}
+.brayan{
     background-color: coral;
 }
