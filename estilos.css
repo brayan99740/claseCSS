@@ -1,36 +1,8 @@
-h1{
-    font-size: 60px;
+table,td{
+    border: 2px solid;
+    border-collapse: collapse;
 }
+tr:hover{
+    background-color: darkmagenta;
 
-/*h3{
-    font-size: 100px;
-}*/
-
-.familiatexto{
-    font-family: "papyrus" ;
-    font-size: 15px;
-    color:black;
-    text-align: justify;
-}
-.paginacool{
-    background-color:green ;
-}
-.titulomejorado{
-    background-color:  red;
-}
-.titulo98{
-    background-color: yellow;
-
-}
-
-.imagenfondo{
-    background-image:url(img/medellin.jpg) ;
-    height: 600px;
-    background-attachment: fixed;
-}
-.textorojo{
-    color: blueviolet;
-}
-.brayan{
-    background-color: coral;
 }
